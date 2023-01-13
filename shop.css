@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.btn{
+    background-color: rgb(32, 29, 29);
+    border-radius: 30px;
+    color: white;
+}
+.sector{
+    position: relative;
+    top: 20px;
+}
